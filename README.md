@@ -39,8 +39,9 @@ CHANGE THE WORLD BY CODE!
 ## 📊 GitHub 统计 (My GitHub Stats)
 
 [![PlagueWzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlagueWzk&show_icons=true&theme=radical)](https://github.com/PlagueWzk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlagueWzk&layout=compact&theme=radical)](https://github.com/PlagueWzk)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PlagueWzk)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlagueWzk&layout=compact&theme=radical)](https://github.com/PlagueWzk)
 
 ---
 
