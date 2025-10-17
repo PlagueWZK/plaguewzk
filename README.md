@@ -21,18 +21,11 @@ CHANGE THE WORLD BY CODE!
     * 是的，只有Java
 ---
 
-## 🔥 我的项目 (My Projects)
-
-* **一些无聊的Java实现游戏**
-    * [植物明星大乱斗\(仿写\)](https://github.com/PlagueWZK/plants-battle)
-
----
-
 ## 🌱 我正在学习/未来的计划 (What I'm Learning / Future Plans)
 
 * 设计模式和相关框架
 * Spring Boot
-* UE引擎
+* 前端技术
 
 ---
 
