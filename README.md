@@ -16,9 +16,10 @@ CHANGE THE WORLD BY CODE!
 
 ## 🛠️ 我的技能树 (My Skills)
 
-* **编程语言 (Programming Languages):**
-    * `Java`
-    * 是的，只有Java
+* **技术栈 (Technology Stack):**
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+* ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+* ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ---
 
 ## 🌱 我正在学习/未来的计划 (What I'm Learning / Future Plans)
