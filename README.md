@@ -29,6 +29,16 @@ CHANGE THE WORLD BY CODE!
 * 前端技术
 
 ---
+## 📊 GitHub 统计 (My GitHub Stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PlagueWzk&show_icons=true&theme=radical" alt="PlagueWzk's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlagueWzk&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PlagueWzk&theme=radical" alt="WakaTime stats" />
+</p>
 
 ## 📊 GitHub 统计 (My GitHub Stats)
 
